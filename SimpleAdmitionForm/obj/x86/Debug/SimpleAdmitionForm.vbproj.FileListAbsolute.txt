@@ -1,0 +1,17 @@
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\bin\Debug\SimpleAdmitionForm.exe
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\bin\Debug\SimpleAdmitionForm.pdb
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\bin\Debug\SimpleAdmitionForm.xml
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.Form1.resources
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.Resources.resources
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.exe
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.xml
+E:\VBCOntrolsExample\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.pdb
+D:\projects\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.exe
+D:\projects\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.xml
+D:\projects\SimpleAdmitionForm\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.pdb
+D:\projects\SimpleAdmissionForm_VB.Net\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.exe
+D:\projects\SimpleAdmissionForm_VB.Net\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.xml
+D:\projects\SimpleAdmissionForm_VB.Net\SimpleAdmitionForm\obj\x86\Debug\SimpleAdmitionForm.pdb
